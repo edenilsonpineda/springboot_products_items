@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "products-service.ribbon.listOfServers",
+  "type": "java.lang.String",
+  "description": "Load balancing for the service with ribbon products-service.ribbon.listOfServers"
+}]}
